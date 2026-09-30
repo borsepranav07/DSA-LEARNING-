@@ -4,7 +4,7 @@ public class search_in_rotated_sorted_array {
         
         int[] arr = {5,34,67,78,97,200,1,2,3,4};
 
-        int n= arr.length;
+        int n = arr.length;
 
         int target = 67;
 
